@@ -2,7 +2,7 @@
 This is the official universal script hub for Infinite's scripts (Acts as an API for Infinite's scripts too)
 
 
-# $${\color{blue}Features (WIP)}$$
+# Features (WIP)
 
 **These are the ONLY current features**
 
